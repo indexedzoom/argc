@@ -9,4 +9,7 @@ A simple linux command line utility that prints the number of arguments gave as 
 Now argc should be able to run from anywhere.
 
 # Usage
-Argc is a simple program that prints out the arguments given and the amount of arguments in total.  For more usage on linux (I don't know for other platforms), use a command as an argument and surround it in \`  \`.   E.g:    argc \`ls\`.
+Argc is a simple program that prints out the arguments given and the amount of arguments in total.  For more usage on linux (I don't know for other platforms), use a command as an argument and surround it in \`\`.
+
+# Example
+`argc \`ls\``

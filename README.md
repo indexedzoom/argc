@@ -2,10 +2,10 @@
 A simple linux command line utility that prints the number of arguments given.
 
 # Commands
-*`mkdir build`
-*`chmod +x sconfigure sbuild`
-*`./sconfigure`
-*`./sbuild`
+1) `mkdir build`
+2) `chmod +x sconfigure sbuild`
+3) `./sconfigure`
+4) `./sbuild`
 
 # Command explanation
 1) Create a build directory. `mkdir build`

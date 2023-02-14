@@ -1,7 +1,13 @@
-# argc
+# Argc
 A simple linux command line utility that prints the number of arguments given.
 
-# Steps to install
+# Commands
+*`mkdir build`
+*`chmod +x sconfigure sbuild`
+*`./sconfigure`
+*`./sbuild`
+
+# Command explanation
 1) Create a build directory. `mkdir build`
 2) On linux, run the command `chmod +x sconfigure sbuild` to change the sconfigure and sbuild files to executable.
 3) Run the sconfigure file to create CMake files in the newly created build directory. `./sconfigure`

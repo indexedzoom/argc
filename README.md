@@ -1,5 +1,5 @@
 # argc
-A simple linux command line utility that prints the number of arguments gave as input.
+A simple linux command line utility that prints the number of arguments given.
 
 # Steps to install
 1) Create a build directory

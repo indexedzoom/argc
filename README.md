@@ -2,9 +2,10 @@
 A simple linux command line utility that prints the number of arguments given.
 
 # Steps to install
-1) Create a build directory
-2) Run the sconfigure file to create CMake files
-3) Run the sbuild file to install to the /usr/local/bin directory
+1) Create a build directory. `mkdir build`
+2) On linux, run the command `chmod +x sconfigure sbuild` to change them to executable.
+3) Run the sconfigure file to create CMake files in the newly created build directory. `./sconfigure`
+4) Run the sbuild file to install to the /usr/local/bin directory. `./sbuild`
 
 Now argc should be able to run from anywhere.
 
